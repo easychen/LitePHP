@@ -1,4 +1,5 @@
 <?php
+define( "MYSQL_ASSOC" , MYSQLI_ASSOC );
 
 // 配置文件
 $GLOBALS['config']['db']['db_host'] = 'localhost';
